@@ -1,0 +1,3 @@
+C:\mingw32\bin\cmake.exe -E rm -f CMakeFiles\cerberus.dir/objects.a
+C:\mingw32\bin\ar.exe qc CMakeFiles\cerberus.dir/objects.a @CMakeFiles\cerberus.dir\objects1.rsp
+C:\mingw32\bin\c++.exe -O3 -DNDEBUG -march=native -Wl,--whole-archive CMakeFiles\cerberus.dir/objects.a -Wl,--no-whole-archive -o cerberus.exe -Wl,--out-implib,libcerberus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cerberus.dir\linkLibs.rsp

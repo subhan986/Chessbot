@@ -1,0 +1,3 @@
+C:/Users/M.Subhan/Documents/Cursor/Chessbot/build/CMakeFiles/cerberus.dir
+C:/Users/M.Subhan/Documents/Cursor/Chessbot/build/CMakeFiles/edit_cache.dir
+C:/Users/M.Subhan/Documents/Cursor/Chessbot/build/CMakeFiles/rebuild_cache.dir
